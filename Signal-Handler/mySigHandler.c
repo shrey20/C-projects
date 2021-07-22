@@ -77,7 +77,7 @@ int main(){
 	struct sigaction key_int;//struct for SIGINT signal.
 	memset(&key_int, 0, sizeof(key_int));
 	key_int.sa_handler = handler_SIGINT;
-	if(sigaction(SIGINT, &key_int, NULL) !=0){//check binding.
+	if(sigaction(SIGINT, &key_int, NULL) !=0){//check binding
 		printf("Error binding SIGINT handler\n");
 		exit(1);
 	}

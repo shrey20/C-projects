@@ -20,7 +20,8 @@
 //                   fully acknowledge and credit all sources of help,
 //                   other than Instructors and TAs.
 //
-// Persons:          Peer Mentors helped me debug some errors.
+// Persons:          Identify persons by name, relationship to you, and email.
+//                   Describe in detail the the ideas and help they provided.
 //                   
 //
 // Online sources:   avoid web searches to solve your problems, but if you do
